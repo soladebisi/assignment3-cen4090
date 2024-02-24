@@ -38,3 +38,12 @@ The git log command displays committed snapshots. It lets you list the project h
 git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
 
 
+
+6.
+
+git log --name-only --grep="Vehicle.h"
+
+7.
+
+git log --grep="file"
+
