@@ -1,0 +1,37 @@
+1. 
+ 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 56 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 337 bytes | 337.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/soladebisi/assignment3-cen4090.git
+   f4975e5..976c476  master -> master
+
+
+2.
+
+8 commits in total
+used git shortlog
+
+3.
+
+Author: Olusola Adeyemi Adebisi <adebisi@linprog1.cs.fsu.edu>
+Date:   Fri Feb 23 23:22:38 2024 -0500
+
+    Repository owner information added to README.md
+used git log
+
+4.
+
+When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes
+ Git branches are effectively a pointer to a snapshot of your changes
+
+5.
+
+The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes.
+git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
+
+
